@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be7e47c0-6a3a-49f1-ab82-8185c009e0cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lambda/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/src/main/java/com/rafferty/handler/RestaurantHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/src/main/java/com/rafferty/handler/RestaurantHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/src/main/java/com/rafferty/model/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/src/main/java/com/rafferty/model/InputObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/target/classes/com/rafferty/handler/RestaurantHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/target/classes/com/rafferty/handler/RestaurantHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/target/classes/com/rafferty/model/ApiGatewayResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/target/classes/com/rafferty/model/ApiGatewayResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/target/classes/com/rafferty/model/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/target/classes/com/rafferty/model/InputObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/target/lambda-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/target/lambda-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda/target/original-lambda-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda/target/original-lambda-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/apigateway-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/apigateway-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/datasync-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/datasync-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/dynamodb-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/dynamodb-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/opensearch-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/opensearch-stack.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hCvlal4LvNTnYmGTm68C3UB0LS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/erinr/Desktop/cdk-projects/restaurant_api_app/lambda"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be7e47c0-6a3a-49f1-ab82-8185c009e0cf" name="Changes" comment="" />
+      <created>1717111027165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717111027165</updated>
+    </task>
+    <servers />
+  </component>
+</project>

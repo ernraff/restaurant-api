@@ -1,0 +1,5 @@
+com\rafferty\model\ApiGatewayResponse.class
+com\rafferty\model\Location.class
+com\rafferty\model\Restaurant.class
+com\rafferty\handler\RestaurantHandler.class
+com\rafferty\model\LocationConverter.class
