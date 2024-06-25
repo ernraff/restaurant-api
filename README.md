@@ -2,7 +2,8 @@
 
 The purpose of this project is to create an API that allows users to query restaurants by cuisine, restaurant ID, or restaurant name and receive detailed restaurant data in return. The project was developed using the AWS CDK. The API is defined by AWS CDK and implemented with AWS Lambda for scalable and efficient execution. Restaurant data is pulled using Yelp's API and stored in DynamoDB and ElasticSearch for efficient querying and retrieval.
 
-![RestaurantApi drawio (1)](https://github.com/ernraff/Restaurants-Api/assets/103540977/081e0a92-6316-4d8b-b4d7-c911073a9f9b)
+![RestaurantApi drawio (1)](https://github.com/ernraff/restaurant-api/assets/103540977/d4e7b283-d77d-4bdf-bc5b-75b5ca89bc78)
+
 
 ## Restaurant API
 
