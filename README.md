@@ -13,6 +13,8 @@ Developed using API Gateway using Lambda proxy integration. Currently has workin
 
 Lambda proxy that queries DynamoDB for restaurant data according to query parameters. For query by id, queries DynamoDB table by the table's sort key. For query by cuisine, queries GSI (cuisineIndex).
 
+Uses Dagger for dependency injection.
+
 ## DataSync
 
 Lambda function which collects restaurant data by cuisine from the Yelp Fusion API and adds to a DynamoDB Table.
