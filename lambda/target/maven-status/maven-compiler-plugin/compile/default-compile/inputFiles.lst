@@ -1,5 +1,11 @@
 C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\model\LocationConverter.java
 C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\model\Location.java
 C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\model\Restaurant.java
+C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\dei\BaseConfigModule.java
+C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\dei\ObjectMapperModule.java
 C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\model\ApiGatewayResponse.java
+C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\repo\RestaurantRepository.java
+C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\dei\DynamoDBModule.java
 C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\handler\RestaurantHandler.java
+C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\service\RestaurantService.java
+C:\Users\erinr\Desktop\cdk-projects\restaurant_api_app\lambda\src\main\java\com\rafferty\dei\BaseConfig.java
